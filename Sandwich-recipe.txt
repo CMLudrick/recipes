@@ -1,0 +1,9 @@
+Ingredients:
+ - Bread
+ - Salami
+ - Whatever cheese I have
+
+Directions:
+  1. Put everything between the bread
+  2. Put it in the panini press for a bit
+  3. Take it out when it's done
